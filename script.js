@@ -23,6 +23,6 @@ function startCaptcha() {
         // Redirect to the main site after a delay
         setTimeout(() => {
             window.location.href = "https://partnervavadarv.com/?promo=9711e727-1dff-4514-8afd-7b21e3074cdf-it&target=register"; // Redirect URL
-        }, 1500); // 1.5 seconds delay before redirect
+        }, 1500); // 1.0 seconds delay before redirect
     }, 2000); // Simulated processing time (2 seconds)
 }
